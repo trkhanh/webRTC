@@ -9,10 +9,10 @@
         "start": "cd server && yarn start"
     },
     "repository": {
-        "type": "git",
+        "type": "git"
     },
     "engines": {
         "node": "12.1.0",
         "yarn": "1.12.0"
-    },
+    }
 }
